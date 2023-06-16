@@ -50,7 +50,7 @@ Project is created with:
 ## Installation
 1. Download the project to your Device using one of the ways listed below
    1. git clone the project:
-git clone https://github.com/gowtham/Inventory-Management-System.git
+git clone https://github.com/gowthamravi81/gowgit/blob/main/README.md
    1. Download Zip using : [Download](https://github.com/vishakhg98/Inventory-Management-System/archive/master.zip)
 	 
 1. (Optional) If want to use virtual environment:
